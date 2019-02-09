@@ -41,7 +41,7 @@ Nefry　Mirrorでは次の部品で構成されています。（製造タイミ
 
 ![仮合わせ](.gitbook/assets/make/procedure/mainframe2.jpg)
 
-ボンドを付けるときは薄く広げるとスムーズに固定できます。
+ボンドをつけるときは薄く広げるとスムーズに固定できます。
 
 ![ボンドの例](.gitbook/assets/make/procedure/mainframe3.jpg)
 
@@ -53,6 +53,68 @@ Nefry　Mirrorでは次の部品で構成されています。（製造タイミ
 
 ### 3.ミラーを固定する
 
-スタンド部品+鏡固定部品の板から、次の画像の部品を取り出します。
+次の板から、ミラーを固定する部品を取り出します。
+
+![スタンド部品+鏡固定部品](.gitbook/assets/make/parts/standParts.jpg)
+
+次の画像の部品を取り出しましょう。
 
 ![鏡固定部品](.gitbook/assets/make/procedure/mirrorframe1.jpg)
+
+取り出せたら、穴にボルトを差し込みます。
+
+![ボルト+ワッシャー](.gitbook/assets/make/procedure/mirrorframe2.jpg)
+![ボルト+ナット](.gitbook/assets/make/procedure/mirrorframe3.jpg)
+
+すべての穴にボルトを通します。
+
+![すべてにボルトを差します](.gitbook/assets/make/procedure/mirrorframe4.jpg)
+
+次の画像のように先ほど作成したバックフレームの穴に仮に刺してみましょう。
+
+![フレームに固定する](.gitbook/assets/make/procedure/mirrorframe5.jpg)
+
+![フレームに固定する（横視点）](.gitbook/assets/make/procedure/mirrorframe6.jpg)
+
+仮に刺して問題なければこの部品もボンドをつけて固定します。
+
+### 4.スマートフォンを固定する
+
+付属のテープでスマートフォンを固定します。(付属のテープがなくなった場合、既存の両面テープでも大丈夫です。)
+固定する位置を決めたら、黒い文字のテープ面をはがし裏パネルに貼ります。
+
+![黒い文字のテープ面](.gitbook/assets/make/procedure/smartphone1.jpg)
+
+![裏パネル](.gitbook/assets/make/parts/backpanel.jpg)
+
+貼り付けると次のような形になります。
+
+![貼った例](.gitbook/assets/make/procedure/smartphone2.jpg)
+
+最後に青い文字のテープ面をはがし、スマートフォンを固定します。
+
+![スマートフォン貼り付け](.gitbook/assets/make/procedure/smartphone3.jpg)
+
+### 5.組み合わせる
+
+鏡のついたパネルとスマートフォンを固定したパネルをボルトの穴を合わせてナットで固定します。
+
+![結合](.gitbook/assets/make/procedure/marge1.jpg)
+
+### 6.台を作る
+
+このミラーは壁掛けか台に立てかけて使用します。
+
+ここでは台の作り方を説明します。
+
+次の部品を使用します。
+
+![スタンド部品](.gitbook/assets/make/procedure/stand1.jpg)
+
+次の画像を参考に組み合わせます。
+
+![組み合わせ例](.gitbook/assets/make/procedure/stand2.jpg)
+
+完成すると次のようになります。
+
+![完成例](.gitbook/assets/make/procedure/stand3.jpg)
