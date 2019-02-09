@@ -11,26 +11,15 @@ Nefry Mirrorはスマートフォンやタブレットを活用したスマー�
 
 Web技術をベースにしており、「ステッカー」と呼ばれる表示ツールを組み合わせてミラーの画面を作成します。今後ユーザで独自のステッカーを追加できるような機能を作成します。
 
-## Getting Super Powers
+# 動作確認
 
+- Nexus5
+- HTC　U11（Android 8.0）
 
+# Nefry Mirror Webページ
 
-Becoming a super hero is a fairly straight forward process:
+## [Mirror Webページ](https://mirror.nefry.studio/)
 
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
+# 目次
+- [Nefry Mirror組み立て](https://miyo.gitbook.io/smartphone/nefry-mirrormite)
 
