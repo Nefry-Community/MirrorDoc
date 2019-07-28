@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Nefry Mirrorマニュアル](README.md)
+* [Nefry MiYoマニュアル](README.md)
+* [Nefry MiYo組み立て](nefry-mirrormite.md)
+* [MiYo Webアプリ使い方](miyo-webapurii.md)
 * [現在対応しているステッカー](shiteirusutekk.md)
-* [Nefry Mirror組み立て](nefry-mirrormite.md)
 
